@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{78EB8D18-4F96-4924-9F7D-FF67F02C58E3}|PrimeiroProjeto\\PrimeiroProjeto.csproj|d:\\dev\\cursos\\iniciando-aspnet-core-devio\\aulas\\fundamentos\\primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78EB8D18-4F96-4924-9F7D-FF67F02C58E3}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EB8D18-4F96-4924-9F7D-FF67F02C58E3}|PrimeiroProjeto\\PrimeiroProjeto.csproj|d:\\dev\\cursos\\iniciando-aspnet-core-devio\\aulas\\fundamentos\\primeiroprojeto\\novometodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EB8D18-4F96-4924-9F7D-FF67F02C58E3}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\novometodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EB8D18-4F96-4924-9F7D-FF67F02C58E3}|PrimeiroProjeto\\PrimeiroProjeto.csproj|d:\\dev\\cursos\\iniciando-aspnet-core-devio\\aulas\\fundamentos\\primeiroprojeto\\meumiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EB8D18-4F96-4924-9F7D-FF67F02C58E3}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\meumiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +32,35 @@
               "RelativeDocumentMoniker": "PrimeiroProjeto\\Program.cs",
               "ToolTip": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Aulas\\Fundamentos\\PrimeiroProjeto\\Program.cs",
               "RelativeToolTip": "PrimeiroProjeto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T20:07:41.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeuMiddleware.cs",
+              "DocumentMoniker": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Aulas\\Fundamentos\\PrimeiroProjeto\\MeuMiddleware.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjeto\\MeuMiddleware.cs",
+              "ToolTip": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Aulas\\Fundamentos\\PrimeiroProjeto\\MeuMiddleware.cs",
+              "RelativeToolTip": "PrimeiroProjeto\\MeuMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:40:38.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NovoMetodo.cs",
+              "DocumentMoniker": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Aulas\\Fundamentos\\PrimeiroProjeto\\NovoMetodo.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjeto\\NovoMetodo.cs",
+              "ToolTip": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Aulas\\Fundamentos\\PrimeiroProjeto\\NovoMetodo.cs",
+              "RelativeToolTip": "PrimeiroProjeto\\NovoMetodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:26:37.327Z",
               "EditorCaption": ""
             }
           ]
