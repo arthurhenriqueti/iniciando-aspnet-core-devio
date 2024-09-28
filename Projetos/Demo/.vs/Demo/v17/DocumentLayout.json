@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Projetos\\Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C513CEB4-4258-4C51-9C56-2904DEB0F476}|DemoRazorPages\\DemoRazorPages.csproj|d:\\dev\\cursos\\iniciando-aspnet-core-devio\\projetos\\demo\\demorazorpages\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C513CEB4-4258-4C51-9C56-2904DEB0F476}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E18EC68-D1B2-4423-890C-D17DEBDC63D9}|DemoBlazor\\DemoBlazor.csproj|d:\\dev\\cursos\\iniciando-aspnet-core-devio\\projetos\\demo\\demoblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18EC68-D1B2-4423-890C-D17DEBDC63D9}|DemoBlazor\\DemoBlazor.csproj|solutionrelative:demoblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C513CEB4-4258-4C51-9C56-2904DEB0F476}|DemoRazorPages\\DemoRazorPages.csproj|d:\\dev\\cursos\\iniciando-aspnet-core-devio\\projetos\\demo\\demorazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C513CEB4-4258-4C51-9C56-2904DEB0F476}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E18EC68-D1B2-4423-890C-D17DEBDC63D9}|DemoBlazor\\DemoBlazor.csproj|d:\\dev\\cursos\\iniciando-aspnet-core-devio\\projetos\\demo\\demoblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E18EC68-D1B2-4423-890C-D17DEBDC63D9}|DemoBlazor\\DemoBlazor.csproj|solutionrelative:demoblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Projetos\\Demo\\DemoRazorPages\\Program.cs",
-              "RelativeDocumentMoniker": "DemoRazorPages\\Program.cs",
-              "ToolTip": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Projetos\\Demo\\DemoRazorPages\\Program.cs",
-              "RelativeToolTip": "DemoRazorPages\\Program.cs",
+              "DocumentMoniker": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Projetos\\Demo\\DemoBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "DemoBlazor\\Program.cs",
+              "ToolTip": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Projetos\\Demo\\DemoBlazor\\Program.cs",
+              "RelativeToolTip": "DemoBlazor\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T20:26:04.149Z",
+              "WhenOpened": "2024-09-28T20:41:36.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Projetos\\Demo\\DemoRazorPages\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "DemoRazorPages\\Pages\\Index.cshtml",
-              "ToolTip": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Projetos\\Demo\\DemoRazorPages\\Pages\\Index.cshtml",
-              "RelativeToolTip": "DemoRazorPages\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABxAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Projetos\\Demo\\DemoBlazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "DemoBlazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\dev\\cursos\\iniciando-aspnet-core-devio\\Projetos\\Demo\\DemoBlazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "DemoBlazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-28T20:17:08.992Z",
+              "WhenOpened": "2024-09-28T22:40:39.511Z",
               "EditorCaption": ""
             }
           ]
